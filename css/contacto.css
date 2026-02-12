@@ -1,0 +1,40 @@
+
+
+.nombre {
+    width: 100%;
+    float: left;
+    padding-bottom: 90px;
+}
+.teléfono {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #363636;
+    text-align: center;
+    font-weight: bold;
+}
+.correo electrónico {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 120px;
+}
+.mensaje{
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #393838;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    border: 0px;
+    border: 1px solid #2b2278 !important;
+}
+.sumit{
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #393838;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    border: 0px;
+    border: 1px solid #2b2278 !important;
